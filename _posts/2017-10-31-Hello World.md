@@ -4,7 +4,7 @@ title:      Hello 2017
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2017-02-04
 author:     Mocha
-header-img: img/post-bg-2015.jpg
+header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
     - 生活
